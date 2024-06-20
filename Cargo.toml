@@ -1,0 +1,9 @@
+[package]
+name = "slack-accessibility-bot"
+version = "0.1.0"
+authors = ["Christina Chortaria <cc62@princeton.edu>","Jane Sandberg <js7389@princeton.edu>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
